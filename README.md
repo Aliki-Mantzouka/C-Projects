@@ -8,7 +8,7 @@ This project involves the design and implementation of a custom Unix shell, deve
 
 **Technical Features**
 
-- Process Management:
+- **Process Management:**
 
   Utilizes fork(), execvp(), and wait()/waitpid() for creating and managing child processes.
 
@@ -40,7 +40,9 @@ A high-performance implementation of the Merge Sort algorithm using the POSIX Th
 
 **Technical Features**
 
-- Concurrency Model: Uses a multi-threaded approach where the array is recursively split into sub-segments, each handled by a dedicated thread.
+- **Concurrency Model:**
+
+  Uses a multi-threaded approach where the array is recursively split into sub-segments, each handled by a dedicated thread.
 
 - **Synchronization:**
 
