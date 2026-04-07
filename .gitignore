@@ -1,2 +1,10 @@
-*.swp
+# Vim swap files
+*.sw[a-p]
 *.swo
+
+# Compiled binaries
+*.o
+mysh1/mysh1
+mysh2/mysh2
+mysh3/mysh3
+mysh4/mysh4
