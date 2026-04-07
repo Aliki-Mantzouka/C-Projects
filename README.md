@@ -1,3 +1,5 @@
+Course project for "Introduction to Computer and Networks Systems" of the Department of Business Administration at the National and Kapodistrian University of Athens.
+
 # **Project 1: Unix Shell Implementation (mysh)**
 
 **Overview**
