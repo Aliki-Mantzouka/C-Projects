@@ -1,4 +1,4 @@
-**Project 1: Unix Shell Implementation (mysh)**
+# **Project 1: Unix Shell Implementation (mysh)**
 
 **Overview**
 
@@ -6,9 +6,11 @@ This project involves the design and implementation of a custom Unix shell, deve
 
 **Technical Features**
 
-- Process Management: Utilizes fork(), execvp(), and wait()/waitpid() for creating and managing child processes.
+- Process Management:
 
-- Modular Evolution:
+  Utilizes fork(), execvp(), and wait()/waitpid() for creating and managing child processes.
+
+- **Modular Evolution:**
 
 - mysh1: Implementation of basic command execution.
 
@@ -27,7 +29,8 @@ Implementation of command pipelines (|) using pipe() to connect the stdout of on
 Includes whitespace trimming (trim_whitespace) and signal handling for clean process termination.
 
 
-**Project 2: Multithreaded Merge Sort (ThreadSort)**
+
+# **Project 2: Multithreaded Merge Sort (ThreadSort)**
 
 **Overview**
 
@@ -37,7 +40,7 @@ A high-performance implementation of the Merge Sort algorithm using the POSIX Th
 
 - Concurrency Model: Uses a multi-threaded approach where the array is recursively split into sub-segments, each handled by a dedicated thread.
 
-- Synchronization:
+- **Synchronization:**
 
 - Implementation of Mutexes (pthread_mutex_t) to protect shared resources and global counters.
 
