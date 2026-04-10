@@ -1,6 +1,6 @@
 Course project for "Introduction to Computer and Networks Systems" of the Department of Business Administration at the National and Kapodistrian University of Athens.
 
-# **Project 1: Unix Shell Implementation (mysh)**
+# **Project 1: Unix Shell Implementation (shells)**
 
 **Overview**
 
@@ -32,7 +32,7 @@ Includes whitespace trimming (trim_whitespace) and signal handling for clean pro
 
 
 
-# **Project 2: Multithreaded Merge Sort (ThreadSort)**
+# **Project 2: Multithreaded Merge Sort (threads)**
 
 **Overview**
 
